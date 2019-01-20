@@ -16,20 +16,20 @@
 }
 
 .carousel-item {
-    height: 90vh;
+    height: 100vh;
 }
 
 .carousel-image-1 {
     background: url("bagballspigs.png"); 
-    background-size: cover;
+    overflow: hidden;
 }
 
 .carousel-image-2 {
     background: url("bigballsbat.png");
-    background-size: cover;
+    overflow: hidden;
 }
 
 .carousel-image-3 {
     background: url("bigballsmonkey.png");
-    background-size: cover;
+    overflow: hidden;
 }
