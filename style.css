@@ -1,0 +1,35 @@
+.center-form {
+    display: flex;
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    /* z-index: 2; */
+
+}
+#carousel {
+    z-index: -1;
+}
+
+.btn-white {
+    background-color: white;
+    color: black;
+}
+
+.carousel-item {
+    height: 90vh;
+}
+
+.carousel-image-1 {
+    background: url("bagballspigs.png"); 
+    background-size: cover;
+}
+
+.carousel-image-2 {
+    background: url("bigballsbat.png");
+    background-size: cover;
+}
+
+.carousel-image-3 {
+    background: url("bigballsmonkey.png");
+    background-size: cover;
+}
